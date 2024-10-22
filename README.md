@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java & JavaSkript
 - 💞️ I’m looking to collaborate on some Mods for Minecraft.
 - 📫 How to reach me: At the Moment you can't reach me anyway.
-- 😄 Pronouns: funny, friendly and complex
+- 😄 Pronouns: funny, friendly and german
 - ⚡ Fun fact: I always want to learn something new :)
 
 <!---
