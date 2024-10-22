@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development & creating mods for Minecraft Java
 - 🌱 I’m currently learning Java & JavaSkript
 - 💞️ I’m looking to collaborate on some Mods for Minecraft.
-- 📫 How to reach me: At the Moment you can't reach me anyway.
+- 📫 How to reach me: Write me a Email under dev.cooper-source@outlook.de
 - 😄 Pronouns: funny, friendly and german
 - ⚡ Fun fact: I always want to learn something new :)
 
