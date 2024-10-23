@@ -1,3 +1,5 @@
+## Important
+
 - 👋 Hi, I’m @Cooper-Source
 - 👀 I’m interested in Software Development & creating mods for Minecraft Java
 - 🌱 I’m currently learning Java & JavaSkript
@@ -7,9 +9,10 @@
 - 😄 Deskription: funny, friendly and german
 - ⚡ Fun fact: I always want to learn something new :)
 
-  Please contact me by email if you have any concerns.
+ > Please contact me by email if you have any concerns.
 
-<!---
-Cooper-Source/Cooper-Source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Information about my programming style
+
+**My usual repository structure**
+> - 🆕 The new features will be released to the Preview branch first (bugs may occur)
+> - ✅ Features where the bugs have been fixed are published in the "Main" branch
