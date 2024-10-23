@@ -9,7 +9,8 @@
 - 😄 Deskription: funny, friendly and german
 - ⚡ Fun fact: I always want to learn something new :)
 
- > Please contact me by email if you have any concerns.
+> Please contact me by email if you have any concerns.
+> And always report bugs 🤝👍
 
 ## Information about my programming style
 
